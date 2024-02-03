@@ -1,0 +1,73 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin: 20px auto;
+    padding-left: 20px;
+    width: 1000px;
+    height: 200px;
+    border: 1px solid #2266ff;
+}
+
+.box_one{
+    margin: 10px;
+    margin-left: 45px;
+    padding: 10px;
+    width: 40%;
+    height: 160px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 4px 1px #2266ff,
+    inset 0px 0px 2px 3px #fff;
+}
+.box_two{
+    margin: 20px;
+    margin-right:50px;
+    width: 20%;
+    height: 160px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 4px 1px #2266ff,
+    inset 0px 0px 2px 3px #fff;
+}
+.box_three{
+    margin: 10px;
+    margin-left: 40px;
+    width: 50%;
+    height: 180px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 4px 1px #2266ff,
+    inset 0px 0px 2px 3px #fff;
+}
+.photo_one{
+    background-image: url('./images/one.png');
+    background-size: cover;   
+}
+.photo_two{
+    background-image: url('./images/two.jpg');
+    background-size: cover;
+}
+.photo_three{
+    background-image: url('./images/three.jpg');
+    background-size: cover;
+}
+.photo_four{
+    background-image: url('./images/fouth.jpg');
+    background-size: cover;
+}
+.photo_five{
+    background-image: url('./images/five.png');
+    background-size: cover;
+}
+.photo_six{
+    background-image: url('./images/six.jpg');
+    background-size: cover;
+}
+.float_left{
+    float: left;
+}
+.float_right{
+    float: right;
+}
+.float_center{
+    float: none;
+}

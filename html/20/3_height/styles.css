@@ -1,0 +1,31 @@
+body{
+    margin: 10px;
+}
+div{
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #111;
+    border-radius: 10px;
+}
+.width-200{
+    width: 200px;
+}
+.height-auto{
+    height: auto;
+}
+.height-200{
+    height: 200px;
+}
+.height-50-percent{
+    height: 50%;
+}
+.bg-pink{
+    background-color: pink;
+}
+.bg-lightblue{
+    background-color: lightblue;
+}
+.bg-rose{
+    background-color: lightgray;
+}
+

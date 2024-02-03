@@ -1,0 +1,10 @@
+h1{
+    background-color: slateblue;
+}
+p,span{
+    background-color: aquamarine;
+    color: red;
+}
+h2,h3{
+    background-color: yellow;
+}

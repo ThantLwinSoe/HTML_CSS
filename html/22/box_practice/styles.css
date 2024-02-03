@@ -1,0 +1,83 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 400px;
+    height: auto;
+    padding: 20px;
+    margin: 50px auto;
+    box-shadow: 0px 0px 4px 0px #534064,
+    inset 0px 0px 2px 3px #e2d8d8;
+    border-radius: 28px;
+}
+a{
+    text-decoration: none;
+}
+.row{
+    width: auto;
+    color: #fff;
+}
+.text-32px{
+    font-size: 32px;
+}
+.profile_container{
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 6px 3px #9a85ac,
+    inset 0px 0px 1px 10px #d5d7de;
+    
+}
+.profile_image{
+    width: 90%;
+    height: 90%;
+    margin: 10px;
+    border-radius: 50%;
+    
+}
+.header-title{
+    font-family: 'Afacad', sans-serif;
+    color: rgb(40, 236, 236);
+}
+.bg-lightgrey{
+    background-color: lightslategrey;
+}
+.card-body{
+    margin: 10px;
+    text-align: center;
+}
+.sub-title{
+    font-size: 16px;
+    color: #eeb268;
+}
+.text-12px{
+    font-size: 12px;
+    color: #fff;
+    font-weight: 800;
+}
+.card-footer{
+    margin: 20px;
+    text-align: center;
+}
+.btn{
+    padding: 10px 50px;
+    background-color: #fff;
+    text-decoration: none;
+    border-radius: 30px;
+    box-shadow: inset 0px 0px 4px 1px #534064;
+}
+.btn:active{
+    background-color:  rgba(10, 10, 10, 0.1);
+}
+.btn:hover{
+    background-color: #585252;
+    opacity: 0.7;
+    color: #60f4a7;
+}
+.card-title{
+    padding: 0 110px;
+}

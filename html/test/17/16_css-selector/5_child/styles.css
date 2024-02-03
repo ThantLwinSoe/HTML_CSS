@@ -1,0 +1,19 @@
+body{
+    background: radial-gradient(#6714b0,#fff); /* radial-gradient( center color, around color)*/
+}
+.container{
+    max-width: 250px;
+    background-color: #69652c;
+    height: auto;
+    border-radius: 10px;
+    text-align: center;
+}
+.container>h2{
+    color: #9ba4b9;
+}
+ul>li{
+    color: rgb(207, 114, 22);
+}
+section>div>p{
+    color: #9a2525;
+}

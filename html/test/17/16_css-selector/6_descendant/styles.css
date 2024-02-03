@@ -1,0 +1,10 @@
+div span{
+    color: #3441ef;
+    font-size: 20px;
+}
+p span {
+    font-weight: lighter;
+}
+p .text-green {
+    color: red;
+}

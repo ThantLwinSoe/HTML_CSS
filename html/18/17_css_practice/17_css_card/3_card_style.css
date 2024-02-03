@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.title-bar{
+    margin: 0;
+    padding: 15px;
+    height: auto;
+    background-color: #5e21f6;
+}
+.text-white{
+    color: #fff;
+}
+.card{
+    width: 200px;
+    margin: 10px auto;
+    border-radius: 15px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+
+}
+.card img {
+    width: 100%;
+    border-radius: 7px;
+    border-bottom: 1px solid rgba(22, 11, 33, 0.3);
+}
+.card-title{
+    padding: 10px;
+}
+.card-body{
+    padding: 10px;
+}
+.location{
+    display: inline-flex;
+    margin: 20px;
+}

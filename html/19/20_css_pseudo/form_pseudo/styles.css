@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.form-label{
+    color: #332f2f;
+    padding: 3px;
+    font-family: 'Afacad', sans-serif;
+}
+.form-input{
+    width: 250px;
+    margin: 3px;
+    padding: 7px;
+    border-radius: 5px;
+    border: 1px solid #231133;
+}
+.form-input:focus{
+    outline: 2px solid #9217de;
+}

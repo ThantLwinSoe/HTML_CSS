@@ -1,0 +1,74 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    max-width: 280px;
+    margin: 10px auto;
+    padding: 0px;
+    border-radius: 7px;
+    border: 0.4px solid rgba(23, 11,33,0.1);
+}
+.card-header{
+    width: 280px;
+    height: 70px;
+    margin-left: 0px;
+    border-bottom: 1px solid rgba(23, 11,33,0.1);
+    padding-bottom: 10px;
+    border-radius: 2px;
+    text-align: center;
+}
+.item-list{
+    list-style: none;
+}
+.card-image{
+    width: 280px ;
+    height: 59px;
+    image-resolution: 150dpi;
+    text-align: center;
+    padding-top: 10px;
+}
+.btn{
+   
+    text-decoration: none;
+}
+.card-body {
+    width: ;
+    height: auto;
+    padding: 20px;
+    margin: 0 auto;
+    text-align: center;
+}
+.btn{
+    display: inline-block;/* Make the button behave like an inline element with block-level features */
+    background-color: #3498db; /*Button background color */
+    color: #fff; /* Text color */
+    padding: 10px 20px; /* Add padding to the button */
+    text-decoration: none; /* Remove the default underline on the link */
+    border-radius: 20px; /* Make the button slightly rounded */
+    border: 2px solid #2980b9; /* Add a border to the button */
+    font-size: 16px; /* Set font size */
+    font-weight: bold; /* Make the text bold */
+    cursor: pointer; /* Show pointer cursor on hover */
+}
+.test-container{
+    margin: 20px auto;
+    text-align: center;
+    padding-top: 20px;
+
+}
+.my-button{
+    text-decoration: none;
+    padding: 10px;
+    border: 1px solid #8ccaf4;
+    border-radius: 23px;
+    background-color: #561af9;
+    color: #fff;
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+}

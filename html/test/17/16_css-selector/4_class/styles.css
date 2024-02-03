@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #7708cd;
+}
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 1rem;
+    background-color: #241133;
+    color: #fff;
+}
+.border{
+    border: 1px solid #dfdfdf;
+    border-radius: 4px;
+}
+.bg-default {
+    background-color: #dfdfdf;
+    border-radius: 10px;
+    font-size: 20px;
+    text-align: center;
+}
+.text-color{
+    color: #4245fb;
+}
+.bold{
+    font-weight: bold;
+}
+.text-red{
+    color: #da2152;
+}
+.underline{
+    text-decoration: underline;
+}

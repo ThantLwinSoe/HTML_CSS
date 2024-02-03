@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+}
+.pre-size{
+    width: 250px;
+    height: 200px;
+    border-radius: 15px;
+}
+.container{
+    background-color: hsl(240, 5%, 50%);
+    position: relative;
+    margin: 50px auto;
+}
+.square{
+    inset: 40px;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    
+}
+.box1{
+    background-color: rgba(55, 130, 203, 0.5);
+}
+.box2 {
+    background-color: hsl(25, 80%, 30%);
+}
+.box3{
+    background-color: hsl(320, 50%, 60%);
+}
+.botton-container{
+    margin: 50px auto;
+    width: 300px;
+}
+.btn{
+    padding: 10px;
+    width: 80px;
+    border-radius: 10px;
+    margin-left: 150px;
+    box-shadow: 0 1px 1px 1px;
+    cursor: pointer;
+    border: none;
+    color: #fff;
+    background-color: hsl(230, 93%, 50%);
+}
